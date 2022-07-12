@@ -606,5 +606,9 @@ fi
 
 
 %changelog
+* Wed Apr 13 2022 Virgilio Cunha <virgilio-a-cunha@alticelabs.com> 2
+- Migration ABCMEOKSIP from 2.1.0 to 2.2.0
+- Migration ABCMEOKSIP from 2.1.0 to 2.2.1
+
 * Thu Feb 3 2022 Virgilio Cunha <virgilio-a-cunha@alticelabs.com> 1
 - First version
